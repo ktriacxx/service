@@ -1,0 +1,23 @@
+{
+  "name": "ktria",
+  "version": "1.0.0",
+  "description": "url",
+  "main": "ktria.js",
+  "scripts": {
+    "test": "f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "f"
+  },
+  "keywords": [
+    "f"
+  ],
+  "author": "f",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
